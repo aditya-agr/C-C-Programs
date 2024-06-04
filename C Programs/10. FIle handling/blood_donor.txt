@@ -1,0 +1,12 @@
+
+Blodd Donor Number 1
+Name : Asit
+Address : Vijay Nagar
+Age : 12
+Blood Group : 2
+
+Blodd Donor Number 2
+Name : Aditya
+Address : Teachers colony
+Age : 18
+Blood Group : 3
