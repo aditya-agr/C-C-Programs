@@ -1,0 +1,15 @@
+
+Employee No. : 1
+Name : ADITYA
+Sex : M
+Salary : 12000
+
+Employee No. : 2
+Name : ASIT
+Sex : M
+Salary : 1255
+
+Employee No. : 3
+Name : SARITA
+Sex : F
+Salary : 17000

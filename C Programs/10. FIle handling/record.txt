@@ -1,0 +1,21 @@
+
+
+Employee Number 1 
+The Employee code : 202103
+The Name : SARITA
+The Joining Date : 17/2/1976
+The Salary : 40000.000000
+
+
+Employee Number 2 
+The Employee code : 202102
+The Name : ADITYA
+The Joining Date : 31/3/2003
+The Salary : 12000.000000
+
+
+Employee Number 3 
+The Employee code : 202103
+The Name : ASIT
+The Joining Date : 15/2/2007
+The Salary : 15000.000000
